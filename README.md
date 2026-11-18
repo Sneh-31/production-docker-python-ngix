@@ -64,4 +64,6 @@ Stop the application:
 &#x20;   docker compose down
 
 
+## Application Output
 
+![Application Running](images/application-running.png)
