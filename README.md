@@ -32,6 +32,9 @@ A Python application running inside Docker with Nginx as a reverse proxy.
 
 \- Container logging
 
+## Architecture Diagram
+
+![Docker Architecture](images/docker-architecture.png)
 
 
 \## Run the Project
@@ -59,4 +62,6 @@ Stop the application:
 
 
 &#x20;   docker compose down
+
+
 
